@@ -1,0 +1,52 @@
+======== REPO stats ========
+User statistics, generated on 2023-11-07 10:30:15.309223
+------
+User: davery15         commits:2        pullrequests:0        othermerges:0       
+   filetype:.java      added:233        removed:192
+------
+User: Reesecdy         commits:7        pullrequests:1        othermerges:0       
+   filetype:no-ext     added:1          removed:0
+   filetype:.java      added:10         removed:10
+   filetype:.uxf       added:35         removed:35
+   binfile:.png        number:1
+   binfile:.pdf        number:1
+------
+User: lisazhuuu        commits:1        pullrequests:0        othermerges:0       
+   filetype:.java      added:35         removed:5
+------
+User: 乐乐           commits:2        pullrequests:0        othermerges:0       
+   filetype:.java      added:43         removed:22
+------
+User: Reese            commits:3        pullrequests:0        othermerges:0       
+   filetype:.java      added:256        removed:208
+------
+User: Jonathan Cook    commits:1        pullrequests:0        othermerges:0       
+   filetype:.txt       added:35         removed:0
+------
+User: Javier Ramirez   commits:7        pullrequests:0        othermerges:1       
+   filetype:.json      added:7          removed:0
+   filetype:.md        added:18         removed:0
+   filetype:.java      added:335        removed:80
+   binfile:.class      number:1
+   binfile:no-ext      number:1
+   binfile:.jpg        number:1
+   binfile:.pdf        number:1
+------
+======== WIKI stats =========
+User statistics, generated on 2023-11-07 10:30:15.338811
+------
+User: 1Redux           commits:24       pullrequests:0        othermerges:0       
+   filetype:.md        added:26         removed:18
+   filetype:.md"       added:8          removed:2
+------
+User: davery15         commits:35       pullrequests:0        othermerges:0       
+   filetype:.md        added:72         removed:62
+   filetype:.md"       added:13         removed:8
+------
+User: Reesecdy         commits:18       pullrequests:0        othermerges:0       
+   filetype:.md        added:129        removed:24
+   filetype:.md"       added:11         removed:5
+------
+User: lisazhuuu        commits:14       pullrequests:0        othermerges:0       
+   filetype:.md        added:207        removed:85
+------
